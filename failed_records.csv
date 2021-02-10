@@ -1,0 +1,7 @@
+This employee's name is missed: id: 6, dept_id: 6, manager_id: 6, Today's date is: Wed Feb 10 02:47:27 CST 2021
+This employee's name is missed: id: 8, dept_id: 8, manager_id: 8, Today's date is: Wed Feb 10 02:47:27 CST 2021
+This dept's name is missed: id: 3, Today's date is: Wed Feb 10 02:47:27 CST 2021
+This dept's name is missed: id: 7, Today's date is: Wed Feb 10 02:47:27 CST 2021
+This manager's name is missed: id: 11, Today's date is: Wed Feb 10 02:47:27 CST 2021
+This manager's name is missed: id: 12, Today's date is: Wed Feb 10 02:47:27 CST 2021
+The number of failed records is: 6
